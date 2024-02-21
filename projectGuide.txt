@@ -1,0 +1,16 @@
+THE DISEASES: 
+Pneumonia
+Consolidation**
+Infiltration**
+Pneumothorax
+Asthma
+Emphysema
+Fibrosis
+Covid- 19
+ Effusion
+Atelectasis
+Pleural_thickening**
+Cardiomegaly
+Nodule Mass**
+TB
+
