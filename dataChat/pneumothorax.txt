@@ -1,100 +1,18 @@
-
-
-# Pneumothorax
-
-Request an Appointment
-
-  * Symptoms &  
-
----------------------
-Content for topic 'when to see a doctor':
-When to see a doctor
-
+Pneumothorax
 Symptoms of a pneumothorax can be caused by a variety of health problems, and
 some can be life-threatening, so seek medical attention. If your chest pain is
 severe or breathing becomes increasingly difficult, get immediate emergency
 care.
-
-Request an appointment
-
-
-
-There is a problem with information submitted for this request. Review/update
-the information highlighted below and resubmit the form.
-
-## From Mayo Clinic to your inbox
-
-Sign up for free and stay up to date on research advancements, health tips,
-current health topics, and expertise on managing health. Click here for an
-email preview.
-
-Email __
-
-ErrorEmail field is required
-
-ErrorInclude a valid email address
-
-Learn more about Mayo Clinic’s use of data.
-
-To provide you with the most relevant and helpful information, and understand
-which information is beneficial, we may combine your email and website usage
-information with other information we have about you. If you are a Mayo Clinic
-patient, this could include protected health information. If we combine this
-information with your protected health information, we will treat all of that
-information as protected health information and will only use or disclose that
-information as set forth in our notice of privacy practices. You may opt-out
-of email communications at any time by clicking on the unsubscribe link in the
-e-mail.
-
-Subscribe!
-
-### Thank you for subscribing!
-
-You'll soon start receiving the latest Mayo Clinic health information you
-requested in your inbox.
-
-### Sorry something went wrong with your subscription
-
-Please, try again in a couple of minutes
-
-Retry
-
-##
-
-## Causes
+        Causes
 
 A pneumothorax can be caused by:
 
-  * **Chest injury.** Any blunt or penetrating injury to your chest can cause lung collapse. Some injuries may happen during physical assaults or car crashes, while others may inadvertently occur during medical procedures that involve the insertion of a needle into the chest.
-  * **Lung disease.** Damaged lung tissue is more likely to collapse. Lung damage can be caused by many types of underlying diseases, such as chronic obstructive pulmonary disease (COPD), cystic fibrosis, lung cancer or pneumonia. Cystic lung diseases, such as lymphangioleiomyomatosis and Birt-Hogg-Dube syndrome, cause round, thin-walled air sacs in the lung tissue that can rupture, resulting in pneumothorax.
-  * **Ruptured air blisters.** Small air blisters (blebs) can develop on the top of the lungs. These air blisters sometimes burst -- allowing air to leak into the space that surrounds the lungs.
-  * **Mechanical ventilation.** A severe type of pneumothorax can occur in people who need mechanical assistance to breathe. The ventilator can create an imbalance of air pressure within the chest. The lung may collapse completely.
+Chest injury.                 Any blunt or penetrating injury to your chest can cause lung collapse. Some injuries may happen during physical assaults or car crashes, while others may inadvertently occur during medical procedures that involve the insertion of a needle into the chest.
+Lung disease.                 Damaged lung tissue is more likely to collapse. Lung damage can be caused by many types of underlying diseases, such as chronic obstructive pulmonary disease (COPD), cystic fibrosis, lung cancer or pneumonia. Cystic lung diseases, such as lymphangioleiomyomatosis and Birt-Hogg-Dube syndrome, cause round, thin-walled air sacs in the lung tissue that can rupture, resulting in pneumothorax.
+Ruptured air blisters.                 Small air blisters (blebs) can develop on the top of the lungs. These air blisters sometimes burst -- allowing air to leak into the space that surrounds the lungs.
+Mechanical ventilation.                 A severe type of pneumothorax can occur in people who need mechanical assistance to breathe. The ventilator can create an imbalance of air pressure within the chest. The lung may collapse completely.
 
-## 
----------------------
-Content for topic 'causes':
 causes
-
-  * Diagnosis &  
-treatment
-
-  * Doctors &  
-departments
-
-  * Care at  
-Mayo Clinic
-
-Print
-
-## Overview
-
-Collapsed and normal lung Enlarge image
-
-Close
-
-### Collapsed and normal lung
-
-### Collapsed and normal lung
 
 In a collapsed lung, air from the lung leaks into the chest cavity. The
 example shown is a complete left pneumothorax.
@@ -113,109 +31,3 @@ threatening event.
 Treatment for a pneumothorax usually involves inserting a needle or chest tube
 between the ribs to remove the excess air. However, a small pneumothorax may
 heal on its own.
-
-### Products & Services
-
-  * A Book: Mayo Clinic Family Health Book, 5th Edition
-  * Newsletter: Mayo Clinic Health Letter -- Digital Edition
-
-Show more products from Mayo Clinic
-
-## Symptoms
-
-The main symptoms of a pneumothorax are sudden chest pain and shortness of
-breath. Severity of symptoms may depend on how much of the lung is collapsed.
-
-### 
----------------------
-Content for topic 'risk factors':
-Risk factors
-
-In general, men are far more likely to have a pneumothorax than women are. The
-type of pneumothorax caused by ruptured air blisters is most likely to occur
-in people between 20 and 40 years old, especially if the person is very tall
-and underweight.
-
-Underlying lung disease or mechanical ventilation can be a cause or a risk
-factor for a pneumothorax. Other risk factors include:
-
-  * **Smoking.** The risk increases with the length of time and the number of cigarettes smoked, even without emphysema.
-  * **Genetics.** Certain types of pneumothorax appear to run in families.
-  * **Previous pneumothorax.** Anyone who has had one pneumothorax is at increased risk of another.
-
-## 
----------------------
-Content for topic 'complications':
-Complications
-
-Potential complications vary, depending on the size and severity of the
-pneumothorax as well as the cause and treatment. Sometimes air may continue to
-leak if the opening in the lung won't close or pneumothorax may recur.
-
-##
-
-By Mayo Clinic Staff
-
-Pneumothorax care at Mayo Clinic
-
-Request an appointment
-
-Diagnosis & treatment
-
-May 21, 2021
-
-Print
-
-Show references
-
-  1. Ferri FF. Pneumothorax, spontaneous. In: Ferri's Clinical Advisor 2021. Elsevier; 2021. https://www.clinicalkey.com. Accessed Feb. 4, 2021.
-  2. Weinberger SE, et al. Pleural disease. In: Principles of Pulmonary Medicine. 7th ed. Elsevier; 2019. https://www.clinicalkey.com. Accessed Feb. 4, 2021.
-  3. Tintinalli JE, et al., eds. Pneumothorax. In: Tintinalli's Emergency Medicine: A Comprehensive Study Guide. 9th ed. McGraw-Hill; 2020. https://www.accessmedicine.mhmedical. Accessed Feb. 4, 2021.
-  4. AskMayoExpert. Pneumothorax. Mayo Clinic; 2020.
-  5. Paskaradevan J, et al. What is spontaneous pneumothorax? American Journal of Respiratory and Critical Care Medicine. 2020; doi:10.1164/rccm.20212P33.
-  6. Pneumothorax. Merck Manual Professional Version. https://www.merckmanuals.com/professional/pulmonary-disorders/mediastinal-and-pleural-disorders/pneumothorax. Accessed Feb. 4, 2021.
-  7. Ding M, et al. Endobronchial one-way valves for treatment of persistent air leaks: A systematic review. Respiratory Research. 2017; doi:10.1186/s12931-017-0666-y.
-  8. Brown AY. Allscripts EPSi. Mayo Clinic. Jan. 11, 2021.
-  9. Jones KD. Pulmonary cystic disease and its mimics. Surgical Pathology Clinics. 2020; doi:10.1016/j.path.2019.11.007.
-  10. Hallifax R, et al. Pneumothorax ⸺ Time for new guidelines? Seminars in Respiratory and Critical Care Medicine. 2019; doi:10.1055/s-0039-1693499.
-  11. Baqir M (expert opinion). Mayo Clinic. March 17, 2021.
-
-## Related
-
-  * Collapsed and normal lung
-
-### Associated Procedures
-
-  * Chest X-rays
-  * CT scan
-
-### Products & Services
-
-  * A Book: Mayo Clinic Family Health Book, 5th Edition
-  * Newsletter: Mayo Clinic Health Letter -- Digital Edition
-
-Show more products and services from Mayo Clinic
-
-## Pneumothorax
-
-  * Symptoms  
-&  
-causes
-
-  * Diagnosis  
-&  
-treatment
-
-  * Doctors  
-&  
-departments
-
-  * Care at  
-Mayo  
-Clinic
-
-Advertisement
-
-Mayo Clinic does not endorse companies or products. Advertising revenue
-supports our not-for-profit mission.
-

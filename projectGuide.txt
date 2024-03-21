@@ -14,3 +14,7 @@ Cardiomegaly
 Nodule Mass**
 TB
 
+the dashboard - https://d587747f-8acf-40ea-a289-8d8050de9a3f.us-east4-0.gcp.cloud.qdrant.io:6333/dashboard#/collections/diseases
+
+EXTRA COMMANDS RUN
+- how to embed : https://qdrant.github.io/fastembed/examples/Usage_With_Qdrant/
