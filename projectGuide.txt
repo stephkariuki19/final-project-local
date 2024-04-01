@@ -18,3 +18,21 @@ the dashboard - https://d587747f-8acf-40ea-a289-8d8050de9a3f.us-east4-0.gcp.clou
 - https://www.freecodecamp.org/news/python-requirementstxt-explained/
 EXTRA COMMANDS RUN
 - how to embed : https://qdrant.github.io/fastembed/examples/Usage_With_Qdrant/
+
+MORE DATA LINKS:
+medscape pneumonia 
+viral pnenumonia overview and medication - https://emedicine.medscape.com/article/300455-overview
+hospital acquired - https://emedicine.medscape.com/article/234753-overview
+CAP - https://emedicine.medscape.com/article/234240-overview
+bacterial pneumonia - https://emedicine.medscape.com/article/300157-overview
+pediatric pneumonia - https://emedicine.medscape.com/article/967822-overview
+
+medscape TB
+TB plus overview - https://emedicine.medscape.com/article/230802-overview
+TB treatment
+
+medscape Covid
+overview - https://emedicine.medscape.com/article/2500142-overview
+
+AMBOSS covid 
+intro,diagnosis etc https://next.amboss.com/us/article/fI0kXh?q=covid-19#Z82f1d759ff02927000d2ccd223409135

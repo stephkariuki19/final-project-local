@@ -12,4 +12,6 @@ import os
 !pip install fastembed --quiet --upgrade
 
 pip install qdrant-client[fastembed]
+pip install python-dotenv
+
 

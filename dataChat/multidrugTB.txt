@@ -1,0 +1,27 @@
+Treatment of Multidrug-Resistant Tuberculosis
+Multidrug-resistant TB (MDR-TB) refers to isolates that are resistant to both isoniazid and rifampin (and possibly other drugs). When MDR-TB is suspected because of a relevant history or epidemiologic information, start treatment empirically before culture results become available; obtain molecular drug susceptibility testing, if possible. Once results are known, the regimen is modified according to susceptibilities. (Costs are many times higher for the treatment of MDR-TB.) Never add a single new drug to a failing regimen.
+
+Administer at least 5 drugs for the intensive phase of treatment and at least 4 drugs for the continuation phase (listed in order of preference), as follows [10, 11] :
+
+A fluoroquinolone: levofloxacin or moxifloxacin preferred
+Bedaquiline
+Linezolid
+Clofazimine (available only through Investigational New Drug application through the FDA)
+Cycloserine
+An aminoglycoside: streptomycin or amikacin preferred
+Ethambutol
+Pyrazinamide
+Delamanid
+Ethionamide
+Para-aminosalicylic acid
+Successful MDR-TB treatment is more likely associated with factors such as lower prior patient exposure to anti-TB drugs, a higher number of anti-TB drugs to which the infection is still susceptible, and a shorter time since the first TB diagnosis (indicating less advanced disease).
+
+The intensive-phase treatment for MDR-TB should be 5-7 months, followed by the continuation phase, so that the total duration of treatment is 15-24 months after culture conversion. The drugs should be prescribed daily (no intermittent therapy), and the patient should always be on DOT. Weekend DOT may not be possible; therefore, giving self-administered oral drugs on Saturdays and Sundays may be reasonable. All patients should be closely observed for 2 years after completion of treatment, with a low threshold for referral to TB centers.
+
+The diarylquinoline antimycobacterial, bedaquiline (Sirturo), was approved by the FDA in December 2012 as part of a 22-week multidrug regimen for pulmonary MDR-TB. Approval was based on phase 2 data that showed bedaquiline significantly improved time to sputum culture conversion and included 2 consecutive negative sputum cultures collected at least 25 days apart during treatment. At week 24, sputum culture conversion was observed in 77.6% of patients in the bedaquiline treatment group compared with 57.6% of patients in the placebo treatment group (p=0.014). [151, 152]
+
+In another phase II study by Diacon et al, bedaquiline (TMC207) added to standard therapy for MDR-TB reduced the time to conversion to a negative sputum culture compared with placebo and increased the proportion of patients with the conversion of sputum culture (48% vs. 9%).  [153]
+
+Bedaquiline gained FDA approval in August 2019 for adolescents aged 12 years or older and for children as young as 5 in May 2020. This approval was based on evidence from a single-arm, open-label, phase 2 study that enrolled 15 pediatric patients with confirmed or probable MDR-TB infection. The patients were treated with the recommended dosage of bedaquiline for 24 weeks in combination with a background regimen. [154]
+
+Provisional guidelines from the CDC include the use of bedaquiline on a case-by-case basis in children, HIV-infected persons, pregnant individuals, persons with extrapulmonary MDR-TB, and patients with comorbid conditions on concomitant medications when an effective treatment regimen cannot otherwise be provided.

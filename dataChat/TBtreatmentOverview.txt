@@ -1,0 +1,27 @@
+Approach Considerations
+Isolate patients with possible tuberculosis (TB) infection in a private room with negative pressure (air exhausted to outside or through a high-efficiency particulate air filter). Medical staff must wear high-efficiency disposable masks sufficient to filter the tubercle bacillus. Continue isolation until sputum smears are negative for 3 consecutive determinations (usually after approximately 2-4 wk of treatment). Unfortunately, these measures are neither possible nor practical in countries where TB is a public health problem.
+
+Drug therapy
+For initial empiric treatment of TB, start patients on a 4-drug regimen: isoniazid, rifampin, pyrazinamide, and ethambutol. Once the TB isolate is known to be fully susceptible, ethambutol can be discontinued. [5]
+
+Patients with TB receiving pyrazinamide should undergo baseline and periodic serum uric acid assessments, and patients with TB who are receiving long-term ethambutol therapy should undergo baseline and periodic visual acuity and red-green color perception testing. The latter can be performed with a standard test, such as the Ishihara test for color blindness.
+
+After 2 months of therapy (for a fully susceptible isolate), pyrazinamide can be stopped. Isoniazid plus rifampin are continued as daily or intermittent therapy for 4 more months. If isolated isoniazid resistance is documented, discontinue isoniazid and continue treatment with rifampin, pyrazinamide, and ethambutol for 6 months. Therapy must be extended if the patient has cavitary disease and remains culture-positive after 2 months of treatment.
+
+Directly observed therapy (DOT) is recommended for all patients. With DOT, patients on the above regimens can be switched to 2- to 3-times per week dosing after an initial 2 weeks of daily dosing. Patients on twice-weekly dosing must not miss any doses. Prescribe daily therapy for patients on self-administered medication.
+
+Monitoring
+Patients diagnosed with active TB should undergo sputum analysis for Mycobacterium tuberculosis weekly until sputum conversion is documented. Monitoring for toxicity includes baseline and periodic liver enzymes, complete blood cell (CBC) count, and serum creatinine.
+
+Seizures from isoniazid overdose
+A special regimen exists for patients with TB who are actively seizing or who have overdosed on antimycobacterial medication. In these patients, an overdose of isoniazid should be suspected. The administration of diazepam can be attempted to control seizure activity, but IV pyridoxine is the drug of choice in a gram-for-isoniazid-ingested-gram dose. If the ingested dose is unknown, 5 g of pyridoxine can be used empirically. For awake and alert patients, an oral dose of activated charcoal (1 g/kg) with sorbitol can be administered.
+
+Shorter duration regimens
+
+Newer 4-month regimens are being adapted as the data from new clinical trials becomes available. TBTC Study 31/A5349 involved 2516 participants from 34 clinical sites in 13 countries. All patients were AFB smear positive, and 1701 had cavitary lung disease. A 4-month regimen consisting of isoniazid, rifapentine, moxifloxacin, and pyrazinamide was noted to be non-inferior to a standard 6-month regimen of isoniazid, rifampin, pyrazinamide, and ethambutol.
+Treatment of Tuberculosis Resistant to a Single Drug
+The CDC reported that 9.4% of TB cases were resistant to isoniazid in 2018 (16% were MDR-TB). [148] TB resistant to isoniazid can be treated with rifampin, pyrazinamide, and ethambutol for 6 months. Therapy should be extended to 9 months if the patient remains culture-positive after 2 months of treatment.
+
+TB that is resistant to only rifampin (an unusual occurrence) can be treated with isoniazid, a fluoroquinolone (levofloxacin or moxifloxacin), and ethambutol for 12-18 months, depending on clinical response. Therapy should include pyrazinamide for at least the first 2 months of treatment.
+
+A CDC analysis of resistance to pyrazinamide in US cases showed that such resistance increased from 2% in 1999 to 3.3% in 2009. Pyrazinamide monoresistance was associated with younger age, Hispanic ethnicity, HIV infection, and extrapulmonary disease. [149, 150] TB resistant to pyrazinamide can be treated with isoniazid and rifampin for 9 months. Ethambutol should be included for the first 2 months of treatment.

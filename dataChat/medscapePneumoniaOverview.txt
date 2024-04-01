@@ -1,0 +1,107 @@
+Signs and symptoms
+The common constitutional symptoms of viral pneumonia are as follows:
+
+Fever
+Chills
+Nonproductive cough
+Rhinitis
+
+Myalgias
+
+Headaches
+
+Fatigue
+
+During physical examination, the patient may also display the following:
+
+Tachypnea and/or dyspnea
+
+Tachycardia or bradycardia
+
+Wheezing
+
+Rhonchi
+
+Rales
+
+Sternal or intercostal retractions
+
+Dullness to percussion
+
+Decreased breath sounds
+
+Pleurisy
+
+Pleural friction rub
+
+Cyanosis
+
+Rash
+
+Acute respiratory distress
+
+Influenza pneumonia
+
+The influenza viruses are the most common viral cause of pneumonia. Primary influenza pneumonia manifests with persistent symptoms of cough, sore throat, headache, myalgia, and malaise for more than three to five days. The symptoms may worsen with time, and new respiratory signs and symptoms, such as dyspnea and cyanosis, appear.
+
+Respiratory syncytial virus pneumonia
+
+Respiratory syncytial virus (RSV) is the most frequent cause of lower respiratory tract infection in infants and children and the second most common viral cause of pneumonia in adults.
+
+Patients with RSV pneumonia typically present with fever, nonproductive cough, otalgia, anorexia, and dyspnea. Wheezes, rales, and rhonchi are common physical findings.
+
+Parainfluenza virus pneumonia
+
+Parainfluenza virus (PIV) is second in importance only to RSV as a cause of lower respiratory tract disease in children and pneumonia and bronchiolitis in infants younger than 6 months. PIV pneumonia and bronchiolitis are caused primarily by the PIV-3 strain. The signs and symptoms include fever, cough, coryza, dyspnea with rales, and wheezing.
+
+See Clinical Presentation for more detail.
+
+Diagnosis
+Laboratory studies
+
+Cytologic evaluation: Intranuclear inclusions often exist in cells infected with a deoxyribonucleic acid (DNA) virus. Cytoplasmic inclusions usually are present in cells infected with a ribonucleic acid (RNA) virus.
+
+Viral culture
+
+Rapid antigen detection
+
+Polymerase chain reaction (PCR) assay
+
+Serologies: Particularly useful for definitively confirming the diagnosis
+
+Radiography
+
+Chest radiography usually demonstrates bilateral lung involvement, but none of the viral etiologies of pneumonia result in pathognomonic findings with this modality
+
+Lung biopsy and histologic studies
+
+Infrequently, lung biopsy is required to establish a diagnosis in very ill patients, who often are immunocompromised.
+
+See Workup for more detail.
+
+Management
+All patients with viral pneumonia must receive supportive care with the following:
+
+Oxygen
+
+Rest
+
+Antipyretics
+
+Analgesics
+
+Nutrition
+
+Close observation
+
+Intravenous fluids
+
+Mechanical ventilation
+
+Specific treatments for the various types of viral pneumonia include the following:
+
+Influenza pneumonia: Amantadine hydrochloride and rimantadine hydrochloride are approved for the prevention and treatment of influenza A virus infection. Their efficacy in patients with influenza viral pneumonia or severe influenza is unknown.
+
+RSV pneumonia: Ribavirin is the only effective antiviral agent available for the treatment of RSV pneumonia, [1] but there are conflicting data regarding its efficacy.
+
+PIV pneumonia: Treatment is mainly supportive, but aerosolized and oral ribavirin have been associated with reduction in PIV shedding and clinical improvement in immunocompromised patients.

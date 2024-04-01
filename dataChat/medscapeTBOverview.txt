@@ -1,0 +1,145 @@
+Signs and symptoms
+Classic clinical features associated with active pulmonary TB are as follows (elderly individuals with TB may not display typical signs and symptoms):
+
+Cough
+Weight loss/anorexia
+Fever
+Night sweats
+Hemoptysis
+Chest pain (also can result from tuberculous acute pericarditis)
+Fatigue
+Symptoms of tuberculous meningitis may include the following [1] :
+
+Headache that either has been intermittent or persistent for 2-3 weeks
+Subtle mental status changes that may progress to coma over days to weeks
+Low-grade or absent fever
+Symptoms of skeletal TB may include the following:
+
+Back pain or stiffness
+Lower-extremity paralysis in as many as half of patients with undiagnosed Pott disease
+Tuberculous arthritis, usually involving only 1 joint (most often the hip or knee, followed by the ankle, elbow, wrist, and shoulder)
+Symptoms of genitourinary TB may include the following [2] :
+
+Flank pain
+Dysuria
+Frequent urination
+In men, a painful scrotal mass, prostatitis, orchitis, or epididymitis
+In women, symptoms mimicking pelvic inflammatory disease
+Symptoms of gastrointestinal TB are referable to the infected site and may include the following [3] :
+
+Nonhealing ulcers of the mouth or anus
+Difficulty swallowing (with esophageal disease)
+Abdominal pain mimicking peptic ulcer disease (with gastric or duodenal infection)
+Malabsorption (with infection of the small intestine)
+Pain, diarrhea, or hematochezia (with infection of the colon)
+Physical examination findings associated with TB depend on the organs involved. Patients with pulmonary TB may have the following:
+
+Abnormal breath sounds, especially over the upper lobes or involved areas
+Rales or bronchial breath signs indicating lung consolidation
+Signs of extrapulmonary TB differ according to the tissues involved and may include the following [4] :
+
+Confusion
+Coma
+Neurologic deficit
+Chorioretinitis
+Lymphadenopathy
+Cutaneous lesions
+The absence of any significant physical findings does not exclude active TB. Classic symptoms often are absent in high-risk patients, particularly those who are immunocompromised or elderly.
+
+See Clinical Presentation for more details.
+
+Diagnosis
+Screening methods for TB include the following:
+
+Mantoux tuberculin skin test with purified protein derivative (PPD) for active or latent infection (primary method)
+In vitro, blood test based on interferon-gamma release assay (IGRA) with antigens specific for Mycobacterium tuberculosis for latent infection
+Obtain the following laboratory tests for patients with suspected TB:
+
+Acid-fast bacilli (AFB) smear and culture using sputum obtained from the patient. Absence of a positive smear result does not exclude active TB infection; AFB culture is the most specific test for TB
+HIV serology in all patients with TB and unknown HIV status: individuals infected with HIV are at increased risk for TB
+Other diagnostic tests may warrant consideration, including the following:
+
+Specific enzyme-linked immunospot (ELISpot)
+Nucleic acid amplification tests
+Blood culture
+Positive cultures should be followed by drug susceptibility testing; symptoms and radiographic findings do not differentiate multidrug-resistant TB (MDR-TB) from fully susceptible TB. Such testing may include the following:
+
+Direct DNA sequencing analysis
+Automated molecular testing
+Microscopic-observation drug susceptibility (MODS) and thin-layer agar (TLA) assays
+Additional rapid tests (eg, BACTEC-460, ligase chain reaction, luciferase reporter assays, FASTPlaque TB-RIF)
+Obtain a chest radiograph to evaluate for possible associated pulmonary findings. The following patterns may be seen:
+
+Cavity formation: indicates advanced infection; associated with a high bacterial load
+Noncalcified round infiltrates; may be confused with lung carcinoma
+Homogeneously calcified nodules (usually 5-20 mm): tuberculomas, representing old infection
+Primary TB: typically, pneumonialike picture of the infiltrative process in middle or lower lung regions
+Reactivation TB: pulmonary lesions in the posterior segment of the right upper lobe, apicoposterior segment of the left upper lobe, and apical segments of the lower lobes
+TB associated with HIV disease: frequently atypical lesions or normal chest radiographic findings
+Healed and latent TB: dense pulmonary nodules in hilar or upper lobes; smaller nodules in upper lobes
+Miliary TB: numerous small, nodular lesions that resemble millet seeds
+Pleural TB: empyema may be present, with associated pleural effusions
+Evaluation considerations for extrapulmonary TB include the following:
+
+Biopsy of bone marrow, liver, or blood cultures
+If tuberculous meningitis or tuberculoma is suspected, perform a lumbar puncture
+If vertebral ( Pott disease) or brain involvement is suspected, CT or MRI is necessary
+If genitourinary complaints are reported, urinalysis and urine cultures can be obtained
+See Workup for more details.
+
+Management
+Physical measures (if possible or practical) include the following:
+
+Isolate patients with possible TB in a private room with negative pressure
+Have medical staff wear high-efficiency disposable masks sufficient to filter the bacillus
+Continue isolation until sputum smears are negative for 3 consecutive determinations (usually after approximately 2-4 weeks of treatment)
+Initial empiric pharmacologic therapy consists of the following 4-drug regimens:
+
+Isoniazid
+Rifampin
+Pyrazinamide
+Either ethambutol or streptomycin [5]
+Special considerations for drug therapy in pregnant individuals include the following:
+
+Streptomycin should not be used
+Preventive treatment is recommended during pregnancy
+Pregnant individuals are at increased risk for isoniazid-induced hepatotoxicity
+Breastfeeding can be continued during preventive therapy
+Special considerations for drug therapy in children include the following:
+
+Most children with TB can be treated with isoniazid and rifampin for 6 months, along with pyrazinamide for the first 2 months if the culture from the source case is fully susceptible.
+For postnatal TB, the treatment duration may be increased to 9 or 12 months.
+Ethambutol often is avoided in young children.
+Special considerations for drug therapy in HIV-infected patients include the following:
+
+Dose adjustments may be necessary [6, 7]
+Rifampin must be avoided in patients receiving protease inhibitors; rifabutin may be used instead
+Considerations in patients receiving antiretroviral therapy include the following:
+
+Patients with HIV and TB may develop a paradoxical response when starting antiretroviral therapy
+Starting antiretroviral therapy early (eg, < 4 weeks after the start of TB treatment) may reduce progression to AIDS and death [8]
+In patients with higher CD4+ T-cell counts, it may be reasonable to defer antiretroviral therapy until the continuation phase of TB treatment [9]
+Multidrug-resistant TB
+
+Multidrug-resistant TB (MDR-TB) refers to isolates that are resistant to both isoniazid and rifampin (and possibly other drugs). When MDR-TB is suspected, start treatment empirically before culture results become available; obtain molecular drug susceptibility testing, if possible. Modify the initial regimen, as necessary, based on susceptibility results. Never add a single new drug to a failing regimen. Administer at least 5 drugs for the intensive phase of treatment and at least 4 drugs for the continuation phase (listed in order of preference), as follows [10, 11] :
+
+A fluoroquinolone: levofloxacin or moxifloxacin preferred
+Bedaquiline
+Linezolid
+Clofazimine (available only through Investigational New Drug application through the FDA)
+Cycloserine
+An aminoglycoside: streptomycin or amikacin preferred
+Ethambutol
+Pyrazinamide
+Delamanid
+Ethionamide
+Para-aminosalicylic acid
+Surgical resection is recommended for patients with MDR-TB whose prognosis with medical treatment is poor. Procedures include the following:
+
+Segmentectomy (rarely used)
+Lobectomy
+Pneumonectomy
+Pleurectomy for thick pleural peel (rarely indicated)
+Latent TB
+
+Recommended regimens for isoniazid and rifampin for latent TB have been published by the US Centers for Disease Control and Prevention (CDC) [12, 13, 14] : An alternative regimen for latent TB is isoniazid plus rifapentine as self-administered or directly observed therapy (DOT) once-weekly for 12 weeks [15, 16] ; it is not recommended for children under 2 years, individuals who are pregnant or who plan to become pregnant, or patients with TB infection presumed to result from exposure to a person with TB that is resistant to 1 of the 2 drugs.

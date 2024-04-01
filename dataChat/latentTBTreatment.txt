@@ -1,0 +1,50 @@
+Treatment of Latent TB
+The antimycobacterial rifapentine (Priftin), which was previously approved for use against active pulmonary TB caused by Mycobacterium tuberculosis, has been approved by the US Food and Drug Administration (FDA) for use, in combination with isoniazid, in the treatment of latent TB infection. Therapy was approved for patients aged 2 years or older who are at high risk for progression to TB disease. [15, 159]
+
+FDA approval for the new indication was partially based on a randomized study of more than 6,000 patients in which a 12-dose, once-weekly regimen of directly observed therapy (DOT) with rifapentine plus isoniazid was compared with a regimen consisting of 9 months of self-administered daily isoniazid. The cumulative rate of tuberculosis disease development was 0.16% in the rifapentine-isoniazid group (5 out of 3074 patients), compared with 0.32% in the isoniazid group (10 out of 3074 patients). [15, 159]
+
+Patients with a clinically significant result on tuberculin skin testing or a positive interferon-gamma release assay (IGRA) result should receive a course of therapy for latent TB once active infection and disease are ruled out. Recommended regimens for latent TB published by the US Centers for Disease Control and Prevention (CDC) are as follows [12, 16] :
+
+Isoniazid 300 mg - Daily for 9 months
+
+Isoniazid 900 mg - Twice weekly for 9 months (administered as DOT)
+
+Isoniazid 300 mg - Daily for 6 months (should not be used in patients with fibrotic lesions on chest radiography, patients with HIV infection, or children)
+
+Isoniazid 900 mg - Twice weekly for 6 months (administered as DOT; should not be used in patients with fibrotic lesions on chest radiography, patients with HIV infection, or children)
+
+Rifampin 600 mg - Daily for 4 months
+
+Rifapentine 750-900 mg (based on weight) plus isoniazid 900 mg - Once weekly for 12 weeks (self-administered or as DOT)
+
+No longer recommended - Rifampin plus pyrazinamide daily for 2 months (increased liver toxicity)
+
+Self-administered therapy versus directly observed therapy
+A 2017 study reported that self-administered therapy for latent tuberculosis infection (LTBI) may be a viable option for patients when direct medical oversight is unavailable.  [160]
+
+As part of an open-label, phase 4 randomized clinical trial, researchers enrolled 1002 patients from outpatient TB clinics in the United States, Spain, Hong Kong, and South Africa between September 2012 and April 2014. Patients with active TB, prior treatment for TB lasting more than 1 week, contact with someone with a resistant form of TB, or prior intolerance to anti-TB agents were excluded. Most enrolled patients (n=774) were in the United States; however, participants were demographically similar between groups. The median age was 36, and 48.1% of the patients were women.
+
+Patients were randomly assigned to receive isoniazid or rifapentine once weekly by directly observed therapy (DOT), self-administered therapy (SAT) with weekly text message reminders, or SAT without reminders. The study's primary objective was to compare treatment adherence, defined as the completion of 11 or more doses of medication within 16 weeks. All participants were counseled on correct pill-taking and symptoms of drug toxicity. All patients had monthly follow-up visits during therapy and 28 days after the last dose to assess adherence and monitor for adverse events.
+
+The researchers documented overall completion rates of 87.2% (95% confidence interval [CI], 83.1%-90.5%) in the DOT group, 74.0% (CI, 68.9%-78.6%) in the SAT group, and 76.4% (CI, 71.3%-80.8%) in the SAT with reminders group.
+
+Specifically, among US patients, the researchers noted treatment completion rates of 85.4% (CI, 80.4%-89.4%), 77.9% (CI, 72.7%-82.6%), and 76.7% (CI, 70.9%-81.7%), respectively. Using a 15% difference to define noninferiority, the researchers found SAT without reminders to be non-inferior to DOT in the United States.
+
+
+Adverse events were similar among all 3 groups. [160]
+
+Isoniazid plus rifapentine
+This combination, approved by the FDA in November 2014, is indicated for patients aged 2 years and older who are at high risk of developing active TB disease (including those in close contact with active TB patients, patients who have had a recent conversion to a positive tuberculin skin test, HIV-infected patients, and those with pulmonary fibrosis on radiograph).
+
+Consider using this 12-dose regimen among populations that are unlikely to complete longer courses of therapy with isoniazid alone. This regimen is not recommended for children under 2 years, individuals who are pregnant or plan to become pregnant, or patients whose TB infection is presumed to be the result of exposure to a person with TB disease that is resistant to 1 of the 2 drugs.
+
+The PREVENT TB Study compared this regimen with 9 months of self-administered, daily isoniazid (300 mg) therapy for latent tuberculosis. The combination therapy was as effective as isoniazid in preventing tuberculosis and had a higher treatment completion rate. [15]
+
+Isoniazid therapy in children
+Children younger than 12 years should receive isoniazid for 9 months. In addition, children younger than 5 years who have close contact with a person who has active TB should be started on isoniazid, even if the results of skin testing are negative; preventive therapy can be stopped if the results of repeat skin testing are negative 2-3 months after last contact with a culture-positive source case. Alternatively, children aged 2-11 years may receive DOT with weight-base dosing of once-weekly rifapentine plus isoniazid for 12 weeks. [15, 161]
+
+MDR-TB and patient contacts
+Household contacts of patients with MDR-TB have a particularly high risk for tuberculosis, 7.8% within 4 years, in a study from Lima, Peru. [162] Limited data on regimens for treating patients exposed to MDR-TB are available. However, if treatment is initiated, at least 2 drugs should be given, and the index isolate should be susceptible to all drugs used.
+
+Therapy in patients with HIV infection
+Recommended regimens in patients with HIV infection include rifampin alone daily for 4 months or isoniazid, daily or twice weekly, for 9 months. Patients on antiretroviral therapy may need rifabutin instead of rifampin because of potential drug interactions.

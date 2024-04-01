@@ -1,0 +1,154 @@
+Community-acquired pneumonia (CAP) is one of the most common infectious diseases and an important cause of mortality and
+ morbidity worldwide. Typical bacterial pathogens that cause CAP include Streptococcus pneumoniae, Haemophilus influenzae,
+  and Moraxella catarrhalis. However, with the advent of novel diagnostic technologies, viral respiratory pathogens are
+   increasingly being identified as frequent etiologies of CAP. The most common viral pathogens recovered from hospitalized patients admitted with CAP include human rhinovirus and influenza. 
+
+   Presentation and pathogens in typical community-acquired pneumonia
+The term “typical” CAP refers to a bacterial pneumonia caused by pathogens such as S pneumoniae, H influenzae, and M catarrhalis. Patients with typical CAP classically present with fever, a productive cough with purulent sputum, dyspnea, and pleuritic chest pain. Characteristic pulmonary findings on physical examination include the following:
+
+Tachypnea
+Rales heard over the involved lobe or segment
+Increased tactile fremitus, bronchial breath sounds, and egophony may be present if consolidation has occurred.
+Decreased tactile fremitus and dullness on chest percussion may result from parapneumonic effusion or empyema.
+Epidemiologic data may provide clues to the specific pathogen causing CAP, as follows:
+
+The most common bacterial pathogen overall is S pneumoniae, although, in some settings, including in the United States, its incidence is decreasing, possibly owing to vaccination. [1]
+Underlying chronic obstructive pulmonary disease (COPD) [2] : H influenzae or M catarrhalis
+Recent influenza infection [3] : Staphylococcus aureus or S pneumoniae [4]
+Alcoholic patient presenting with “currant jelly” sputum : Klebsiella pneumoniae [2]
+Atypical community-acquired pneumonia
+The clinical presentation of so-called “atypical” CAP often is subacute and frequently is indolent. In addition, patients with atypical CAP may present with more subtle pulmonary findings, nonlobar infiltrates on radiography, and various extrapulmonary manifestations (eg, diarrhea, otalgia). Atypical CAP pathogens include the following:
+
+Mycoplasma pneumoniae
+Chlamydophila ( Chlamydia) pneumoniae
+Legionella pneumophila (Legionnaires disease)
+Respiratory viruses, including the following:
+SARS-CoV-2 (COVID-19)
+Influenza A and B
+Rhinovirus
+Respiratory syncytial virus
+Human metapneumovirus
+Adenovirus 4 and 7
+Parainfluenza virus
+Other rare CAP pathogens:
+Viruses
+Coxsackievirus
+Echovirus
+Other coronaviruses (MERS-CoV, SARS)
+Hantavirus
+Epstein-Barr virus
+Cytomegalovirus
+Herpes simplex virus
+Human herpesvirus 6
+Varicella-zoster virus
+Metapneumovirus [5]
+Bacteria
+Chlamydophila psittaci (psittacosis)
+Coxiella burnetii (Q fever)
+Francisella tularensis (tularemia)
+Mycobacteria
+Mycobacterium tuberculosis
+Nontuberculous mycobacteria (uncommon)
+Endemic fungi (causing subacute or chronic pneumonia)
+Histoplasma capsulatum
+Cryptococcus neoformans neoformans and neoformans gattii
+Coccidioides immitis
+Extrapulmonary signs and symptoms seen in some forms of atypical CAP may include the following:
+
+Mental confusion
+Prominent headaches
+Myalgias
+Ear pain
+Abdominal pain
+Diarrhea
+Rash (Horder spots in psittacosis; erythema multiforme in Mycoplasma pneumonia)
+Nonexudative pharyngitis
+Hemoptysis
+Splenomegaly
+Relative bradycardia
+Historical clues and physical examination findings may suggest a causative pathogen, but the clinical signs and symptoms of CAP are not sufficiently specific to reliably differentiate the exact etiologic agent. [6] Therefore, additional testing remains necessary to identify the pathogen and to optimize therapy in CAP.
+
+Workup
+Standard diagnostic studies for CAP include the following:
+
+Chest radiography
+Complete blood cell (CBC) count with differential
+Serum blood urea nitrogen (BUN) and creatinine levels
+For patients with severe CAP, patients being empirically treated for methicillin-resistant S aureus (MRSA) or Pseudomonas, or patients in whom a specific etiology is suspected, additional workup may be warranted, including the following [7] :
+
+Sputum Gram stain and/or culture
+Blood cultures
+Serum sodium level
+Serum transaminase levels
+Lactic acid level
+C-reactive protein (CRP)
+Lactate dehydrogenase (LDH)
+Molecular diagnostics, ie, polymerase chain reaction (PCR) testing
+Urinary antigen testing for Legionella species
+In special situations:
+
+During influenza season, molecular assay for influenza
+Molecular or antigen testing for SARS-CoV-2 with ongoing community transmission
+Serologic studies for M pneumoniae, C pneumoniae, Bordetella pertussis, C burnetii
+Creatine phosphokinase (CPK)
+Serum phosphorus level
+Chest radiography
+
+Obtain chest radiographs in all patients with suspected CAP to evaluate for an infiltrate and to help exclude conditions that may mimic CAP, such as lung cancer or pulmonary emboli. [8, 9] Patients who present very early with CAP may have negative findings on chest radiography. In these patients, repeat chest radiography within 24 hours may be beneficial. CT scanning may also be necessary in immunocompromised patients who present with symptoms that suggest CAP or ambiguous symptoms in whom chest radiography findings are negative. Serial chest radiography may be used to observe the progression of CAP; however, radiographic improvement often lags behind clinical improvement.
+
+Hospital admission
+Multiple scoring systems are available to assess the severity of CAP and to assist in deciding whether a patient should be hospitalized or admitted to the intensive care unit (ICU). Severe pneumonia is defined as having one major or three minor criteria.
+
+Major criteria include [7] :
+
+Septic shock requiring vasopressors
+Respiratory failure requiring mechanical ventilation.
+Minor criteria include the following [7] :
+
+Respiratory rate of 30 or more breaths per minute
+PaO 2/FIO 2 ratio of 250 or less
+Multilobar infiltrates
+Confusion
+Uremia
+Leukopenia (WBC < 4000 cells/µl)
+Thrombocytopenia (platelet count < 100,000/µl)
+Hypothermia
+Hypotension
+The Pneumonia Severity Index (PSI) is preferred over the CURB-65 (confusion, uremia, respiratory rate, low blood pressure, age >65 years) for determining outpatient versus inpatient treatment. Patients with PSI class IV-V may need hospitalization or more intensive in-home services. ICU admission is recommended for any patient who requires mechanical ventilation or vasopressors. Admission to higher-acuity care or critical care should also be considered in patients with three or more minor risk factors for severe pneumonia. Even in the setting of COVID-19, PSI was still shown to be more predictive of mortality than CURB-65. [10]
+
+Other scoring systems may also be helpful in certain populations to predict the severity of CAP. The SMART-COP score emphasizes the ability to predict the need for ventilator or vasopressor support and includes systolic blood pressure, multilobar infiltrates, serum albumin levels, respiratory rate, tachycardia, confusion, oxygenation, and pH level. The A-DROP (age, dehydration, respiratory failure, orientation, systolic blood pressure) is also a severity score. Recently, an expanded CURB-65 has been shown to improve prediction of 30-day mortality. It includes LDH, thrombocytopenia, and serum albumin, along with the traditional CURB-65, and has been shown to have better prediction accuracy. The value of adding biomarkers in addition to the above scoring systems to identify patients at risk of worse outcomes is being studied. [11, 12, 13, 14, 15]
+
+More recent research indicates that the use of biomarkers, specifically procalcitonin and CRP, may further increase the ability to identify patients at increased risk for worse outcomes, although this remains controversial. A positive pneumococcal urine antigen result has been associated with a good prognosis. [16] Certain prior pulmonary pathology, such as past infection with pulmonary tuberculosis, may increase the risk of mortality. [17]
+
+Antibiotic Therapy
+Adequate empiric antimicrobial therapy for CAP includes coverage for S pneumoniae and atypical bacterial pathogens. Outpatient treatment for CAP in patients with no comorbidities and no risk factors for drug-resistant S pneumoniae frequently includes the following [7] :
+
+Amoxicillin 1 g PO three times a day  OR
+A macrolide (azithromycin 500 mg once and then 250 mg daily, clarithromycin 500 mg twice daily) OR
+Doxycycline 100 mg twice daily
+Macrolides should be used only in areas where pneumococcal resistance is less than 25%. During influenza season, it is also reasonable to initiate oseltamivir, zanamivir, peramivir, or baloxavir therapy in outpatients who present with a flulike illness and pneumonia.
+
+Treatment options for CAP in patients with comorbidities such as chronic heart, lung, liver, or renal disease; diabetes mellitus; alcoholism; malignancy; asplenia; immunosuppression; prior antibiotics within 90 days; or other risk factors for drug-resistant infection include the following:
+
+Beta-lactam ( amoxicillin/clavulanate 2 g/125 mg twice daily or 500 mg/125 mg three times daily or 875 mg/125 mg twice daily, cefpodoxime 200 mg twice daily, or cefuroxime 500 mg twice daily) AND  a macrolide or doxycycline OR
+Respiratory fluoroquinolones ( moxifloxacin 400 mg daily, levofloxacin 750 mg daily)
+For hospitalized patients, therapy consists of the following:
+
+Beta-lactams (ampicillin/sulbactam 1.5-3 g every 6 hours, ceftriaxone 1-2 g daily, cefotaxime 1-2 g every 8 hours, or ceftaroline 600 mg every 12 hours) AND  a macrolide OR
+Respiratory fluoroquinolone OR
+If macrolides and fluoroquinolones are contraindicated: Beta-lactam as above AND doxycycline
+Therapy in ICU patients includes the following:
+
+Beta-lactam (ceftriaxone, cefotaxime, or ampicillin/sulbactam) AND either a macrolide or respiratory fluoroquinolone
+For patients with penicillin allergy, a respiratory fluoroquinolone AND aztreonam
+Risk factors for Pseudomonas pneumonia include structural lung disease, COPD, and bronchiectasis [4] If Pseudomonas is suspected, therapy is as follows:
+
+Anti-pneumococcal and anti-pseudomonal beta-lactam (piperacillin/tazobactam 4.5 g every 6 hours, cefepime 2 g every 8 hours, ceftazidime 2 g every 8 hours, meropenem 1 g every 8 hours, or imipenem 500 mg every 6 hours). [7]
+In patients with severe penicillin allergy, aztreonam 2 g every 8 hours may be used instead of the beta-lactam in the regimen listed above. It is worth noting that many reported penicillin allergies are not true allergies. Owing to the limited spectrum of aztreonam and the relatively low likelihood of penicillin allergy cross-reacting with cephalosporins (2%), cefepime is a reasonable choice after considering the balance of benefit and risk. [18]
+If methicillin-resistant S aureus (MRSA) is suspected, vancomycin 15 mg/kg every 12 hours adjusted based on levels or linezolid 600 mg every 12 hours should be added. Risk factors for MRSA include hemoptysis, recent influenza, neutropenia, hemodialysis, and congestive heart failure. [4] During influenza season, it is also reasonable to start oseltamivir, zanamivir, peramivir, or baloxavir therapy to treat influenza in patients with MRSA CAP, as well as in patients who present with a flulike illness and pneumonia, as influenza may have preceded the MRSA infection. However, oseltamivir remains the preferred agent in inpatients with suspected or confirmed influenza, as there is limited data to support the alternative antivirals in severe or complicated disease. [19]
+
+Rapid initiation of therapy is important for improved outcomes in CAP, although blanket measures to hasten treatment are not without potential negative consequences. Quality-improvement efforts aimed at the administration of antibiotics within a certain time period have contributed to increased inappropriate antibiotic use and increased incidence of Clostridium difficile colitis. Nevertheless, in patients with signs of severe CAP or sepsis, antibiotics should be given within the first hour of hypotension onset to reduce mortality. [20] At minimum, blood cultures and, ideally, sputum cultures should be collected prior to the first antibiotic dose, although antibiotics should not be delayed. However, recent studies have demonstrated that imposing a strict universal time to first antibiotic dose may not be as beneficial in CAP, instead predisposing to excess antibiotic use. Using clinical indicators suggestive of more severe disease may be more beneficial in determining who needs rapid antibiotic administration, such as advanced age, increasing medical comorbidities, or need for supplemental oxygen upon admission. [21]
+
+Results of respiratory specimen cultures, blood cultures, and pleural fluid analysis; PCR of respiratory samples; or antigen tests should be monitored and used to target therapy whenever possible. Inpatient CAP therapy usually consists of intravenous antibiotics followed by transition to an oral course of therapy. [22, 23, 24, 25] Patients who are severely ill or who are unable to tolerate or absorb oral medications may require a longer duration of parenteral therapy before switching to an oral antibiotic. [26]
+
+Mild to moderately ill patients with CAP may be treated entirely via the oral route, on either an inpatient or outpatient basis. The duration of therapy for uncomplicated CAP is usually 5 days. [27, 20] The duration of therapy for CAP due to suspected or proven Pseudomonas or MRSA is typically 7 days. Patients should be afebrile for 48 to 72 hours and have no signs of instability before antibiotic therapy is stopped. The duration of therapy may need to be increased if the initial empiric therapy has no activity against the specific pathogen or if the pneumonia is complicated by extrapulmonary infection. [7] Immunocompromised hosts who present with CAP are treated in a manner similar to that of otherwise healthy hosts but may require a longer duration of therapy. Additional investigations into pathogens associated with immunocompromised hosts may also need to be pursued.

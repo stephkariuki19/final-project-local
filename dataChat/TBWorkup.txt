@@ -1,0 +1,54 @@
+The primary screening method for tuberculosis (TB) infection (active or latent) is the Mantoux tuberculin skin test with purified protein derivative (PPD). An in vitro blood test based on interferon-gamma release assay (IGRA) with antigens specific for Mycobacterium tuberculosis can also screen for latent TB infection. IGRA assays offer certain advantages over tuberculin skin testing. [114, 115]
+
+Obtain the following laboratory tests for patients with suspected TB:
+
+Acid-fast bacilli (AFB) smear and culture - Using sputum obtained from the patient
+
+HIV serology in all patients with TB and unknown HIV status
+
+AFB stain is quick but requires a very high organism load for positivity and the expertise to read the stained sample. This test is more useful in patients with pulmonary disease. Other diagnostic testing may need to be considered, as a delay in diagnosis can increase patient mortality. Traditional mycobacterial cultures require weeks for growth and identification. Newer technologies allow identification within 24 hours.
+
+Obtain a chest radiograph to evaluate for possible associated pulmonary findings. If chest radiography findings suggest TB and a sputum smear is positive for AFB, initiate treatment for TB. A computed tomography (CT) scan of the chest may help to define better abnormalities in patients with vague findings on chest radiography.
+Technetium-99m (99m Tc) methoxy isobutyl isonitrile single-photon emission CT (SPECT) scanning for solitary pulmonary nodules yields a high predictive value for distinguishing TB from malignancy. Therefore, it has the potential to serve as a low-cost alternative when positron emission tomography (PET) scanning is not available, especially in endemic areas. [116]
+
+Symptoms and radiographic findings do not differentiate multidrug-resistant TB (MDR-TB) from fully susceptible TB. Suspect MDR-TB if the patient has a history of previous treatment for TB, was born in or lived in a country with a high prevalence of MDR-TB, has a known exposure to an MDR-TB case, or is clinically progressing despite standard TB therapy.
+
+Extrapulmonary TB
+Extrapulmonary involvement occurs in one fifth of all TB cases, although 60% of patients with extrapulmonary manifestations of TB have no evidence of pulmonary infection on chest radiograph or sputum culture. Biopsy of bone marrow, liver, or blood cultures occasionally is necessary and may be helpful. Ocular TB can be especially difficult to identify, owing to its mimicry of other disorders and its lack of accessible sampling; a high index of suspicion is required.
+
+The hallmark of extrapulmonary TB histopathology is the caseating granuloma, consisting of giant cells with central caseating necrosis. Rarely, if ever, are any TB bacilli seen.
+
+Altered mental status, neck stiffness, decreased level of consciousness, increased intracranial pressure, and cranial nerve involvement can indicate tuberculous meningitis or tuberculoma. A lumbar puncture to evaluate the cerebrospinal fluid is necessary if these conditions are suspected. In addition, a tuberculoma can be substantiated by increased intracranial pressure and findings on CT or magnetic resonance image (MRI) scans.
+
+If vertebral (Pott disease) or brain involvement is suspected, it is important to consider that a delay in treatment could have severe repercussions for the patient (ie, compression of the spinal cord and paraplegia). Consequently, further evaluation is necessary with CT scanning or MRI.
+
+Urinalysis and urine cultures can be obtained for patients with genitourinary complaints. Although patients often are asymptomatic, significant pyuria and hematuria with no routine bacterial organisms suggest that a urine culture for acid-fast bacilli should be obtained.
+
+Pregnancy
+Pregnancy provides an opportunity to screen for TB; all pregnant individuals can undergo tuberculin skin testing. If the results are positive, chest radiography can be performed with lead shielding. Chest radiography should not be delayed during the first 3 months of pregnancy in patients with suggestive symptoms.
+
+TB in children
+The best diagnostic tests for congenital TB are the pathologic and histologic examination of the placenta and a placental culture. Mycobacterial blood cultures of the newborn also may be helpful. Treatment may be necessary until the placental culture results are negative.
+
+Postnatal TB in infants is contracted via the airborne route. The most common findings of postnatal TB include adenopathy and a lung infiltrate. However, the chest radiographic findings may be normal in infants with disseminated disease.
+
+Chest radiographs in children with TB may show only hilar lymphadenopathy or a patchy infiltrate. Gastric aspirates or biopsies are unnecessary if positive cultures have been obtained from the source case. Go to Pediatric Tuberculosis for complete information on this topic.
+
+Patients with HIV infection
+Individuals infected with HIV are at increased risk for TB, beginning within the first year of HIV infection. [117] All patients who are diagnosed with active TB and who are not known to be HIV positive should be considered for HIV testing.
+
+The initiation of antiretroviral therapy (ART) decreases the risk of developing TB in these patients, [118] although the TB risk remains higher in the first 3 months of ART. The highest risk is in patients with the following factors [119] :
+
+Baseline CD4+ count of less than 200/μL
+
+Higher baseline HIV-1 ribonucleic acid (RNA) level - Relative hazard 1.93 for every log increase in baseline HIV-1 RNA
+
+History of injection drug use
+
+Male sex
+
+In a study from Durban, South Africa, nearly 20% of patients starting ART had undiagnosed, culture-positive pulmonary TB. Neither cough nor acid-fast bacillus smear were sufficiently sensitive for screening. TB sputum cultures should be attempted before ART initiation in areas with a high prevalence of TB. [120]
+
+Patients with TB must be tested for HIV, and patients with HIV need periodic evaluation for TB with tuberculin skin testing and chest radiography. Patients with HIV and a positive tuberculin skin test result develop active TB at a rate of 3-16% per year.
+
+Patients with TB and HIV are more likely to have disseminated disease and less likely to have upper lobe infiltrates or classic cavitary pulmonary disease. Patients with a CD4 count of less than 200/μL may have mediastinal adenopathy with infiltrates.

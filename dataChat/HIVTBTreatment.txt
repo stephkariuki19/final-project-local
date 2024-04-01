@@ -1,0 +1,15 @@
+Treatment in HIV-Infected Patients
+Treatment regimens for active or latent TB in patients with HIV infection are similar to those used in HIV-negative patients, but dose adjustments may be necessary. [6, 7] The most significant differences involve the avoidance of rifampin in patients who are on protease inhibitors. Rifabutin may be used in place of rifampin in such patients.
+
+Antiretroviral therapy
+Patients with HIV and TB may develop a paradoxical response (immune reconstitution inflammatory syndrome [IRIS]) when starting antiretroviral therapy. This response has been attributed to a stronger immune response to Mtb. Clinical findings include fever, worsening pulmonary infiltrates, and lymphadenopathy.
+
+However, in an open-label, randomized trial, Abdool Karim et al concluded that initiating antiretroviral therapy during TB therapy significantly improved patient survival. In this study, the mortality rate with simultaneous initiation of antiretroviral therapy and TB therapy was 5.4 deaths per 100 person-years (25 deaths in 429 patients), compared with 12.1 deaths per 100 person-years (27 deaths in 213 patients) with antiretroviral therapy started after the completion of TB therapy, a relative reduction of 56%. [8]
+
+Subsequent studies by these and other researchers found that starting antiretroviral therapy early (eg, within 4 weeks after the start of TB treatment) reduced progression to AIDS and death. In patients with higher CD4+ T-cell counts, however, deferring initiation of antiretroviral therapy until the continuation phase of TB treatment may be a reasonable strategy because the risks for IRIS and for adverse events that necessitate switching of antiretroviral drugs are lower with later initiation of antiretroviral therapy. [9]
+
+Treatment length and recurrence rate
+Swaminathan et al reported a significantly lower bacteriologic recurrence rate with 9 months, instead of 6 months, of an intermittent (3 times/wk) 4-drug regimen in patients with HIV infection and newly diagnosed TB. Mortality was similar in both groups. The rate of acquired rifampin resistance was high in both groups and was not altered by the longer TB treatment. [6]
+
+Tuberculous meningitis and the role of steroids
+In patients with tuberculous meningitis, dexamethasone historically is added to routine 4-drug therapy to reduce complications. However, in a most recent randomized control trial by Donovan et al (2023), adjunctive dexamethasone, as compared with placebo, did not confer a benefit concerning survival or any secondary endpoint. [147] 

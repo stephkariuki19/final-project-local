@@ -12,7 +12,7 @@ qdrant_link =  os.environ.get("QDRANT_LINK")
 qdrant_api = os.environ.get("QDRANT_API")
 openai_api = os.environ.get("OPEN_AI_API")
 
-#loading qdrant and open ao apis
+#loading qdrant and open ai apis
 import openai
 
 openai_client = openai.Client(
@@ -82,7 +82,7 @@ docs = text_splitter.split_documents(documents)
 
 # formulating answer
 model_name = "gpt-3.5-turbo-instruct"
-query = " what is latent TB"
+# query = " what is latent TB"
 llm = OpenAI(model_name=model_name)
 
 chain = load_qa_chain(llm, chain_type="stuff")

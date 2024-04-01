@@ -1,0 +1,63 @@
+Pediatric pneumonia is responsible for the deaths of more than 800,000 young children worldwide each year, according to the United Nations Children's Fund (UNICEF). [1]  These deaths occur almost exclusively in children with underlying conditions, such as chronic lung disease of prematurity, congenital heart disease, and immunosuppression. Although most fatalities occur in developing countries, pneumonia (see the image below) remains a significant cause of morbidity in industrialized nations.
+Signs and symptoms
+Pneumonia can occur at any age; nevertheless, it is more common in younger children. Pneumonia accounts for 13% of all infectious illnesses in infants younger than 2 years of age.
+
+Newborns with pneumonia commonly present with poor feeding and irritability, as well as tachypnea, retractions, grunting, and hypoxemia. Infections with group B Streptococcus, Listeria monocytogenes, or gram-negative rods (eg, Escherichia coli, Klebsiella pneumoniae) are common causes of bacterial pneumonia. Group B streptococci infections are most often transmitted to the fetus in utero. The most commonly isolated virus is respiratory syncytial virus (RSV).
+
+Cough is the most common symptom of pneumonia in infants, along with tachypnea, retractions, and hypoxemia. These may be accompanied by congestion, fever, irritability, and decreased feeding. Viruses are the most common cause of pediatric pneumonia. Streptococcus pneumoniae is  the most common bacterial pathogen in infants aged 1-3 months.
+
+Adolescents experience symptoms similar to those in younger children. They may have other constitutional symptoms, such as headache, pleuritic chest pain, and nonspecific abdominal pain. Mycoplasma pneumoniae is the most frequent cause of pneumonia among older children and adolescents.
+
+See Clinical Presentation for more detail.
+
+Diagnosis
+The signs and symptoms of pneumonia are often nonspecific and vary widely based on the child's age and the infectious organisms involved.
+
+Observing the child’s respiratory effort during a physical examination is an important first step in diagnosing pneumonia. The World Health Organization (WHO) respiratory rate thresholds for identifying children with pneumonia are as follows:
+
+Children younger than 2 months: Greater than or equal to 60 breaths/min
+
+Children aged 2-12 months: Greater than or equal to 50 breaths/min
+
+Children aged 1-5 years: Greater than or equal to 40 breaths/min
+
+Be aware that the WHO definition requires only cough and tachypnea on physical examination. [2]  
+
+Assessment of oxygen saturation by pulse oximetry should be performed early in the evaluation when respiratory symptoms are present. Cyanosis may be present in severe cases. Capnography may be useful in the evaluation of children with potential respiratory compromise.
+
+Other diagnostic tests may include the following:
+
+Auscultation by stethoscope
+
+Cultures
+
+Serology
+
+Complete blood cell count (CBC)
+
+Chest radiography
+
+Ultrasonography
+
+Current data show that point-of-care ultrasonography helps accurately diagnose most cases of pneumonia in children and young adults. Ultrasonography may eventually replace radiographs for diagnosis. [3]
+
+See Workup for more detail.
+
+Management
+Initial priorities in children with pneumonia include the identification and treatment of respiratory distress, hypoxemia, and hypercarbia. Grunting, flaring, severe tachypnea, and retractions should prompt immediate respiratory support. Children who are in severe respiratory distress should undergo tracheal intubation if they are unable to maintain oxygenation or have decreasing levels of consciousness. Increased respiratory support requirements such as increased inhaled oxygen concentration, positive pressure ventilation, or continuous positive airway pressure (CPAP) are commonly required before recovery begins.
+
+Antibiotics
+
+The majority of children diagnosed with pneumonia in the outpatient setting are treated with oral antibiotics. High-dose amoxicillin is the agent of choice for children with uncomplicated community-acquired pneumonia. Second- or third-generation cephalosporins and macrolide antibiotics such as azithromycin are acceptable alternatives. Combination therapy (ampicillin and either gentamicin or cefotaxime) is typically used in the initial treatment of newborns and young infants.
+
+Hospitalized patients can also usually be treated with a narrow-spectrum penicillin such as ampicillin. The choice of agent and dosing may vary based on local resistance rates (high rates of intermediate or resistant pneumococcus may require higher dosing of ampicillin to surmount the altered penicillin-binding protein that is the cause of resistant pneumococcus). In areas where resistance is very high (>25% of strains being nonsusceptible), a third-generation cephalosporin might be indicated instead. In addition, older children may receive a macrolide to cover for atypical infections.
+
+Although the fluoroquinolones would cover all the common respiratory pathogens of childhood, they are not approved for this indication and have significant potential adverse effects, including short-term tendon damage and long-term impact on antibiotic resistance. They should be reserved for cases in which other therapies have failed and ideally should be used after consultation with an infectious disease specialist with whom other options, or alternative diagnoses, can be considered.
+
+Children who are toxic appearing should receive antibiotic therapy that includes vancomycin (particularly in areas where penicillin-resistant pneumococci and methicillin-resistant Staphylococcus aureus [MRSA] are prevalent) along with a second- or third-generation cephalosporin.
+
+Vaccines
+
+Aside from avoiding infectious contacts (difficult for many families who use daycare facilities), vaccination is the primary mode of prevention. Influenza vaccine is recommended for children aged 6 months and older. The pneumococcal conjugate vaccine (PCV13) is recommended for all children younger than 59 months of age. The 23-valent polysaccharide vaccine (PPV23) is recommended for children aged 24 months and older who are at high risk for pneumococcal disease.
+
+See Treatment and Medication for more detail.

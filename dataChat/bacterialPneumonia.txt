@@ -1,0 +1,136 @@
+Bacterial pneumonia
+Practice Essentials
+Bacterial pneumonia (see the image below) is caused by a pathogenic infection of the lungs and may present as a primary disease process or as the final, fatal disorder primarily in an individual who is already debilitated. The most consistent presenting symptom of bacterial pneumonia is cough productive of sputum.
+ Antibiotic treatment is the mainstay of drug therapy for bacterial pneumonia
+ Signs and symptoms of bacterial pneumonia
+Cough, particularly cough productive of sputum, is the most consistent presenting symptom of bacterial pneumonia and may suggest a particular pathogen, as follows:
+
+Streptococcus pneumoniae: Rust-colored sputum
+
+Pseudomonas, Haemophilus, and pneumococcal species: May produce green sputum
+
+Klebsiella species pneumonia: Red currant-jelly sputum
+
+Anaerobic infections: Often produce foul-smelling or bad-tasting sputum
+
+Signs of bacterial pneumonia may include the following:
+
+Hyperthermia (fever, typically >38°C) [1] or hypothermia (< 35°C)
+
+Tachypnea (>18 respirations/min)
+
+Use of accessory respiratory muscles
+
+Tachycardia (>100 bpm) or bradycardia (< 60 bpm)
+
+Central cyanosis
+
+Altered mental status
+
+Physical findings may include the following:
+
+Adventitious breath sounds, such as rales/crackles, rhonchi, or wheezes
+
+Decreased intensity of breath sounds
+
+Egophony
+
+Whispering pectoriloquy
+
+Dullness to percussion
+
+Tracheal deviation
+
+Lymphadenopathy
+
+Pleural friction rub
+
+Examination findings that may indicate a specific etiology include the following:
+
+Bradycardia: May indicate a Legionella etiology
+
+Periodontal disease: May suggest an anaerobic and/or polymicrobial infection
+
+Cutaneous nodules: May suggest Nocardia infection
+
+Decreased gag reflex: Suggests risk for aspiration
+
+See Clinical Presentation for more detail.
+
+Diagnosis of bacterial pneumonia
+Severity assessment
+
+Tools to assess the severity of disease and risk of death include the PSI/PORT (ie, pneumonia severity index/Patient Outcomes Research Team score), the CURB-65 (ie, confusion, urea, respiratory rate, blood pressure, and age >65 years) system, and the APACHE (ie, acute physiology and chronic health evaluation), among others.
+
+The following laboratory tests are also useful for assessing illness severity:
+
+Serum chemistry panel
+
+Arterial blood gas (ABG) determination
+
+Venous blood gas determination (central venous oxygen saturation)
+
+Complete blood cell (CBC) count with differential
+
+Serum free cortisol value
+
+Serum lactate level
+
+Sputum evaluation
+
+Sputum Gram stain and culture should be performed before initiating antibiotic therapy. A single predominant microbe should be noted at Gram staining, although mixed flora may be observed with anaerobic infection caused by aspiration.
+
+Imaging studies
+
+Chest radiography: The criterion standard for establishing the diagnosis of pneumonia
+
+Chest computed tomography scanning
+
+Chest ultrasonography
+
+Bronchoscopy
+
+Lung tissue can be visually evaluated and bronchial washing specimens can be obtained with the aid of a fiberoptic bronchoscope. Protected brushings and bronchoalveolar lavage (BAL) can be performed for fluid analysis and cultures.
+
+Thoracentesis
+
+This is an essential procedure in patients with a parapneumonic pleural effusion. Analysis of the fluid allows differentiation between simple and complicated effusions.
+
+Pathogen-specific tests
+
+Urine assays
+
+Sputum, serum, and/or urinary antigen tests
+
+Immune serologic tests
+
+Histologic examination
+
+Histologic inflammatory lung changes vary according to whether the patient has lobar pneumonia, bronchopneumonia, or interstitial pneumonia. [2]
+
+See Workup for more detail.
+
+Management of bacterial pneumonia
+The mainstay of drug therapy for bacterial pneumonia is antibiotic treatment. First-line antimicrobials for S pneumoniae, the most prevalent cause of bacterial pneumonia, are, for the penicillin-susceptible form of the bacterium, penicillin G and amoxicillin. For the penicillin-resistant form of S pneumoniae, first-line agents are chosen on the basis of sensitivity.
+
+Supportive measures include the following:
+
+Analgesia and antipyretics
+
+Chest physiotherapy
+
+Intravenous fluids (and, conversely, diuretics), if indicated
+
+Pulse oximetry with or without cardiac monitoring, as indicated
+
+Oxygen supplementation
+
+Positioning of the patient to minimize aspiration risk
+
+Respiratory therapy, including treatment with bronchodilators and N-acetylcysteine
+
+Suctioning and bronchial hygiene
+
+Ventilation with low tidal volumes (6 mL/kg of ideal body weight) in patients requiring mechanical ventilation secondary to bilateral pneumonia or acute respiratory distress syndrome (ARDS) [3]
+
+Systemic support: May include proper hydration, nutrition, and mobilization
