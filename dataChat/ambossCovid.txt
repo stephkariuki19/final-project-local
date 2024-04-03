@@ -1,0 +1,132 @@
+COVID-19 is an acute infectious disease caused by the coronavirus SARS-CoV-2. Transmission most commonly occurs via 
+exposure to respiratory fluids. The incubation period varies between 2–14 days and may be shorter with newer variants. 
+Common presenting symptoms include fatigue, fever, and symptoms of an upper respiratory tract infection; affected 
+individuals may also be asymptomatic. Clinical courses range from asymptomatic infection, to mild with minimal symptoms, 
+to severe with pneumonia and life-threatening complications (e.g., acute respiratory distress syndrome, shock, organ 
+dysfunction). Diagnostic confirmation is made based on COVID-19 testing, which includes nucleic acid amplification 
+testing (e.g., PCR) or antigen testing on a respiratory specimen. Imaging findings are nonspecific, resemble those in 
+other viral respiratory tract infections, and should not be used to confirm the diagnosis of COVID-19. Individuals with 
+mild COVID-19 can typically be managed with supportive care at home. Pharmacotherapy can be considered for outpatients
+ with risk factors for progression to severe COVID-19. Patients with moderate or severe COVID-19 or those with risk factors for severe disease may require hospitalization for oxygen therapy, pharmacotherapy, and antithrombotic therapy. The risk of infection can be reduced through preventive efforts, which include vaccination, public health 
+measures (e.g., social distancing, mask-wearing), and getting tested after close contact with infected individuals.
+some of the sympotms of covid are
+Fatigue
+Loss of smell and/or taste
+Sore throat
+Rhinitis
+Headache
+Myalgia
+Diarrhea
+Loss of appetite
+Nausea and vomiting
+Severity ranges from asymptomatic to critical.
+A patient's clinical presentation may change over the course of the disease.
+Often asymptomatic, especially in children  [4][36]
+Fever
+Cough
+Shortness of breath
+collection of specimen for testing can be done considering
+For all individuals: Obtain an upper respiratory tract specimen.
+Preferred method: nasopharyngeal specimen (NP specimen) 
+Alternative methods
+Oropharyngeal (OP) swab (i.e., throat swab) 
+Nasal midturbinate (NMT) swab 
+Anterior nares specimen 
+Saliva specimen
+Nasopharyngeal wash/aspirate or nasal aspirate
+If using both NP and OP swabs: Combine in a single tube. 
+For mechanically ventilated individuals with a negative upper respiratory tract specimen: Obtain a lower respiratory tract aspirate or bronchoalveolar lavage.
+how to manage covidTriage patients via telemedicine when possible.
+Determine site of care based on disease severity and the presence of risk factors for severe COVID-19. 
+Asymptomatic or mild disease in low-risk patients: outpatient management
+Moderate to severe disease, or risk factors for severe COVID-19: in-person evaluation; hospitalization if needed
+Patients requiring in-person evaluation: Consult institutional guidelines regarding the appropriate site of care. 
+
+RISK FACTORS FOR SEVERE COVID
+Age (strongest risk factor): older adults, especially ≥ 65 years of age
+Cancer
+Cardiovascular disease 
+Cerebrovascular disease
+Chronic kidney disease
+Chronic liver disease 
+Chronic lung diseases 
+Diabetes mellitus type I and type II
+Mental health disorders 
+Obesity (BMI ≥ 30)
+Pregnancy or recent pregnancy
+Smoking (current and/or former)
+Tuberculosis
+Immunosuppression 
+MEDICAL MANAGEMENT OF COVID
+Supportive care
+Rest, adequate hydration, and nutrition
+Antipyretics and analgesia as needed (e.g., acetaminophen, ibuprofen)
+Antitussives as needed (e.g., dextromethorphan, benzonatate)
+Prone positioning may relieve dyspnea.
+Pharmacotherapy [46]
+Indications: patients with risk factors for progression to severe COVID-19
+Preferred agents: ritonavir-boosted nirmatrelvir, remdesivir
+Alternatives (only if preferred agents are not available): molnupiravir
+Not currently recommended: systemic glucocorticoids, chloroquine, hydroxychloroquine, azithromycin, ivermectin, bebtelovimab 
+oxygen therapy
+Goal: Maintain SpO2 levels between 92–96% (≥ 95% in pregnant individuals).
+High flow nasal cannula (HFNC)
+Indications: hypoxemic respiratory failure despite the use of basic oxygen delivery systems (e.g., nasal cannula, face mask)
+Persistent hypoxemia despite HFNC (and no indications for invasive mechanical ventilation): Consider a trial of awake prone positioning to improve oxygenation.  [58][59]
+Mechanical ventilation
+Indications: See “Indications for invasive mechanical ventilation.”
+Recommended ventilator settings for patients with COVID-19 and ARDS:
+Tidal volume 4–8 mL/kg of predicted body weight
+Plateau pressure < 30 cm H2O
+Ventilation in the prone position for 12–16 hours/day
+High PEEP
+Extracorporeal membrane oxygenation (ECMO): There is insufficient evidence to recommend for or against the use of ECMO in patients with COVID-19 and refractory hypoxemia.
+See also “Oxygen therapy” for more information.
+protective measures for covid include Practice hand hygiene, cough etiquette, and avoid touching the face (see “Hand hygiene” for details). 
+Masks can provide additional protection for individuals ≥ 2 years old. 
+Masks should have a close fit over the nose and mouth.
+N95 and K95 masks offer greater protection than surgical masks.
+Cloth masks provide the least protection.
+Follow public health guidance to reduce spread of COVID-19
+E.g., guidance on social distancing, quarantine, and lockdowns 
+See also “Prevention of community spread.”
+COVID-19 testing is recommended:
+After close contact with infected individuals
+Individuals with symptoms suggestive of COVID-19
+All eligible individuals should be vaccinated.
+management of covid during pregnancy
+Pregnant and recently pregnant individuals are at higher risk of severe COVID-19.
+Counsel pregnant individuals on ways to minimize the risk of infection (see “Protective measures for the general public” in the section “Prevention”).
+Vaccination against COVID-19 is recommended for pregnant and breastfeeding individuals. [68]
+Treatment options for pregnant patients with COVID-19 are generally the same as those for nonpregnant patients.
+Order imaging (e.g., chest x-ray or chest CT) if clinically indicated. 
+Supplemental oxygen
+Administer supplemental oxygen if SpO2 is < 95% on room air. [66]
+Consider fetal monitoring for hospitalized patients.
+Consider pharmacological treatment, if indicated. 
+Outpatients
+Ritonavir-boosted nirmatrelvir, sotrovimab, remdesivir
+See “Pharmacotherapy for nonhospitalized adults with COVID-19” for details.
+Hospitalized patients
+Remdesivir, dexamethasone
+See “Pharmacotherapy for hospitalized patients with COVID-19” for details.
+Anticoagulation is indicated for hospitalized patients with COVID-19 (see “Antithrombotic therapy in COVID-19”). 
+covid 19 vaccines
+Inactivated or weakened virus vaccines: These use an inactivated or weakened version of the virus that doesn’t cause disease but still generates an immune response,
+Protein-based vaccines: These contain harmless fragments of proteins or protein shells that mimic the COVID-19 virus to safely generate an immune response,
+Viral vector vaccines: These use a safe virus that cannot cause disease but serves as a vehicle to produce coronavirus proteins to generate an immune response, and
+RNA and DNA vaccines: These are genetically engineered RNA or DNA which create proteins that safely activate an immune response.
+types of vaccines available
+referred: PfizerBioNTech COVID-19 vaccine or Moderna COVID-19 vaccine
+Alternative: Johnson and Johnson's Janssen COVID-19 vaccine
+Indication
+All individuals ≥ 5 years of age
+Defer vaccination in patients with recent or current COVID-19 until full recovery and completion of isolation.
+side effects of covid 
+Like with any vaccine, some people will experience mild to moderate side effects after being vaccinated against COVID-19. This is a normal sign that the body is developing protection.
+
+Side effects of COVID-19 vaccines include fever, tiredness, headache, muscle ache, chills, diarrhoea and pain or redness at the injection site.
+
+Not everyone will experience side effects. Most side effects go away within a few days on their own. You can manage any side effects with rest, plenty of non-alcoholic liquids and taking medication to manage pain and fever, if needed.
+
+More serious or long-lasting side effects of COVID-19 vaccines are possible but extremely rare. National health authorities monitor vaccines to detect and respond to rare adverse events. At the regional and global level, WHO also supports countries in monitoring vaccine safety.
